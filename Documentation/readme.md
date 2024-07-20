@@ -5,7 +5,7 @@ En esta sección se ubicaran los archivos que respalda el análisis previo al di
 ## Estructura de Archivos
 
 >Integradora |- Asesoria_3B_230369 <br>
->| -Documentación** <br>
+>**| -Documentación** <br>
 >| -FrontEnd <br>
 >| -BackEnd <br>
 >| -FrontEnd 
