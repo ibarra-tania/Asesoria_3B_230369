@@ -1,11 +1,11 @@
-# Documentation ![PHP](https://img.shields.io/badge/Markdown-000000?styke=for-the-bodge&logo=markdown&logoColor=white)
+# Documentation ![Markdown](https://img.shields.io/badge/Markdown-000000?styke=for-the-bodge&logo=markdown&logoColor=white)
 
 En esta sección se ubicaran los archivos que respalda el análisis previo al diseño de la aplicación web. 
 
 ## Estructura de Archivos
 
 >Integradora |- Asesoria_3B_230369 <br>
->**| -Documentación** <br>
+>**| -Documentation** <br>
 >| -FrontEnd <br>
 >| -BackEnd <br>
 >| -FrontEnd 
@@ -15,5 +15,5 @@ En esta sección se ubicaran los archivos que respalda el análisis previo al di
 |Integrante|Contacto|Rol|Observaciones|
 |----------|--------|---|-------------|
 |Tania Ibarra Salgado|[@ibarra-tania](https://github.com/ibarra-tania)|Líder de Documentación|✅Muy buen Trabajo.|
-|Zyanya Zacatenco Pedroza|[@ZyanZac](https://github.com/ZyanZac)|Líder de Desarrollo FrontEnd|❌No ha revisado cambios.|
-|Uriel Abdalla Medina|[@UrielMedina0302](https://github.com/UrielMedina0302)|Líder de Desarrollo BackEnd|❌No ha revisado cambios.|
+|Zyanya Zacatenco Pedroza|[@ZyanZac](https://github.com/ZyanZac)|Documentador|❌No ha revisado cambios.|
+|Uriel Abdalla Medina|[@UrielMedina0302](https://github.com/UrielMedina0302)|Documentador|❌No ha revisado cambios.|
