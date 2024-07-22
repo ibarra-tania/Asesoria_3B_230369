@@ -16,4 +16,4 @@ En esta sección se ubicaran los archivos que respalda el análisis previo al di
 |----------|--------|---|-------------|
 |Tania Ibarra Salgado|[@ibarra-tania](https://github.com/ibarra-tania)|Líder de Documentación|✅Muy buen Trabajo.|
 |Zyanya Zacatenco Pedroza|[@ZyanZac](https://github.com/ZyanZac)|Documentador|❌No ha revisado cambios.|
-|Uriel Abdalla Medina|[@UrielMedina0302](https://github.com/UrielMedina0302)|Documentador|❌No ha revisado cambios.|
+|Uriel Abdalla Medina|[@UrielMedina0302](https://github.com/UrielMedina0302)|Documentador|❌Revisado y no aprobado, en este aapartado debe ir mi nombre y no el de Uriel, el no es colaborador.|
