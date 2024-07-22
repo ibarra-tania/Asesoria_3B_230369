@@ -15,5 +15,5 @@ En esta sección se ubicarán los archivos que respaldan el análisis previo al 
 |Integrante|Contacto|Rol|Observaciones|
 |-----------|------|--------|-------------|
 |Zyanya Zacatenco|[@ZyanZac](https://github.com/ZyanZac)|Líder de FrontEnd|✔ Revisado y aprobado|
-|Uriel Mendoza|[@UrielMendoza0203](https://github.com/UrielMendoza0203)|Desarrollador FrontEnd|✖ No ha revisado|
+|Uriel Mendoza|[@UrielMendoza0203](https://github.com/UrielMendoza0203)|Desarrollador FrontEnd|✖ Revisado y no aprobado, en este apartado debo estaar yo y no uriel|
 |Tania Ibarra|[@ibarra-tania](https://github.com/ibarra-tania)|Desarrollador FrontEnd|✖ Revisado, esta mal el enlace de Uriel y los roles se repiten|
